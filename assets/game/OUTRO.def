@@ -1,0 +1,40 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "All the cars arrived safely, you and your bulging muscles once again saved the world."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "And where did they arrive---? At the former Jurassic P*rk!"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "Using the dinosaur creation technology, Dr. Lingshot was able to make more dinosaurs, fossils and thus fuel!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "Now rest, hero. As your final act, you slingshot yourself to Hawaii for a well-earned vacation. Thanks a lot for playing! The end!"
+
+
+[Title]

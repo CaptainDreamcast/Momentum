@@ -1,0 +1,40 @@
+
+[Begin Action 1]
+1,0, 0,0, 10
+
+[Begin Action 10]
+10,0, 0,0, 10
+10,1, 0,0, 10
+
+[Begin Action 11]
+10,0, 0,0, 10
+
+[Begin Action 20]
+20,0, 0,0, 10
+
+[Begin Action 25]
+25,0, 0,0, 10
+
+[Begin Action 26]
+25,1, 0,0, 10
+
+[Begin Action 30]
+30,0, 0,0, 10
+
+[Begin Action 40]
+40,0, 0,0, 10
+
+[Begin Action 50]
+50,0, 0,0, 10
+
+[Begin Action 60]
+60,0, 0,0, 10
+60,1, 0,0, 10
+
+[Begin Action 61]
+61,0, 0,0, 10
+61,1, 0,0, 10
+
+[Begin Action 62]
+62,0, 0,0, 10
+62,1, 0,0, 10

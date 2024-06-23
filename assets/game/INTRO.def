@@ -1,0 +1,39 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "In the far-off apocalyptic future of 2021, all fossil fuels will be depleted, leaving humanity to take drastic measures."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "One day, crazy scientist Dr. Sebastian Lingshot came up with a crazy invention so cars could still move even without fuel:"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "A GIGANTIC NUCLEAR-POWERED SLINGSHOT! Unfortunately nuclear energy was also abolished due to to people mixing it up with nukular, and this making them uncomfortable, so Dr. Lingshot had only one last resort left-!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "YOU! You must power the slingshot with your bulging muscles and send those cars to their destination with... MOMENTUM!"
+
+[Game]
